@@ -1,5 +1,9 @@
 # Leonardo Matheus
-Estou fazendo tecnólogo em Análise e Desenvolvimento de Sistemas e estou em busca do primeiro emprego na área tech.
+Olá! Sou Leonardo Matheus, um entusiasta da tecnologia apaixonado por explorar as infinitas possibilidades que esse campo dinâmico oferece. Cursando Análise e Desenvolvimento de Sistemas e uma vontade inabalável de aprender e crescer, estou ansioso para iniciar minha jornada profissional na área de tecnologia.
+
+Minha paixão pela tecnologia começou desde cedo, quando fui cativado pela forma como ela molda e transforma o mundo ao nosso redor.
+
+Estou em busca de desafios que possibilitem a utilização das minhas habilidades técnicas e criativas em um ambiente inspirador, onde posso contribuir com colegas talentosos em projetos relevantes. Sou uma pessoa motivada, dedicada e preparada para enfrentar obstáculos com entusiasmo e comprometimento.
 
 ## Habilidades
 
