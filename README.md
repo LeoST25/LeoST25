@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Leonardo Matheus
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=30A3DC&center=true&vCenter=true&width=520&lines=Desenvolvedor+Backend+%2F+Full+Stack;Estudante+de+ADS;Apaixonado+por+Tecnologia;Sempre+aprendendo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=30A3DC&center=true&vCenter=true&width=520&lines=Desenvolvedor+Backend+Júnior;Node.js+%7C+.NET+%7C+APIs+REST;Estudante+de+ADS;Sempre+aprendendo!" alt="Typing SVG" />
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ## 🚀 Sobre Mim
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-🔭 **Atualmente:** Cursando **Análise e Desenvolvimento de Sistemas**
-🌱 **Aprendendo:** Novas tecnologias e frameworks modernos
-💡 **Paixão:** Transformar ideias em código e soluções eficientes
-🎯 **Objetivo:** Atuar como **Desenvolvedor Backend Júnior**, contribuindo em projetos reais
-📚 **Sempre:** Evoluindo tecnicamente e profissionalmente
+* 🔭 **Atualmente:** Cursando **Análise e Desenvolvimento de Sistemas**
+* 🌱 **Aprendendo:** Arquitetura de APIs, boas práticas de Backend e bancos de dados
+* 💡 **Foco:** Desenvolvimento Backend com **Node.js, .NET e APIs REST**
+* 🎯 **Objetivo:** Atuar como **Desenvolvedor Backend Júnior** em projetos reais
+* 📚 **Perfil:** Proativo, disciplinado e em constante evolução
 
 <br clear="right"/>
 
@@ -24,22 +24,17 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
-
 ### 💻 Linguagens de Programação
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
-### 🚀 Frameworks & Tecnologias
+### 🚀 Backend & Frameworks
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### 🗄️ Bancos de Dados
 
@@ -47,15 +42,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### 🛠️ Ferramentas de Desenvolvimento
+### ⚙️ Ferramentas & DevOps
 
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -84,11 +77,22 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Projetos em Destaque (Backend)
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoST25\&repo=apresentacao-pessoal-frontend\&theme=tokyonight\&hide_border=true)](https://github.com/LeoST25/apresentacao-pessoal-frontend)
+### 💰 Gerenciador de Gastos com IA
+
+**Sistema fullstack com forte foco em Backend**, voltado para controle financeiro pessoal com **análise inteligente de gastos usando IA**.
+
+🔹 **Backend:** Node.js, Express, TypeScript, APIs REST, JWT, Zod, Knex.js
+🔹 **Banco de Dados:** SQLite (dev) / PostgreSQL (prod)
+🔹 **IA:** OpenAI API / Google Gemini
+🔹 **Boas práticas:** Arquitetura em camadas, validação, autenticação, CI/CD
+
+🎯 Projeto desenvolvido para demonstrar **capacidade real de Backend Júnior**, incluindo regras de negócio, segurança e integração com IA.
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoST25\&repo=gerenciador-de-gastos\&theme=tokyonight\&hide_border=true)](https://github.com/LeoST25/gerenciador-de-gastos)
 
 </div>
 
@@ -126,12 +130,3 @@
 💙 **Obrigado pela visita! Fique à vontade para explorar meus repositórios.**
 
 </div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/LeoST25/LeoST25/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
