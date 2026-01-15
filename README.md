@@ -56,8 +56,8 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LeoST25&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoST25&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeoST25&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://streak-stats.demolab.com?user=LeoST25&theme=tokyonight" height="165" />
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LeoST25\&theme=tokyonight\&no-frame=true\&margin-w=8)
+<img src="https://github-profile-trophy.vercel.app/?username=LeoST25&theme=tokyonight&margin-w=15" />
 
 </div>
 
